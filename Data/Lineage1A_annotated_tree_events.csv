@@ -1,0 +1,53 @@
+,EventTime,Origin,Destination,n
+5,1967.39711,Azerbaijan,China,1
+22,1999.59674,Brazil,United States,1
+28,1968.33036,Central African Republic,Turkey,1
+8,1951.81023,Egypt,Portugal,4
+6,1959.1389100000001,Egypt,Israel,4
+7,1962.07681,Egypt,Russia,4
+4,1965.87406,Egypt,Azerbaijan,4
+12,2023.00221,India,Pakistan,1
+17,1997.1752,Israel,Belgium,3
+18,1997.35931,Israel,United States,3
+16,2003.00221,Israel,Hungary,3
+40,2000.6675,Italy,France,8
+47,2001.06099,Italy,Senegal,8
+42,2003.0022,Italy,Morocco,8
+41,2003.92153,Italy,Spain,8
+43,2004.79865,Italy,France,8
+44,2010.5844,Italy,Spain,8
+45,2012.00221,Italy,Senegal,8
+46,2017.52844,Italy,Spain,8
+36,2018.56936,Kenya,Zambia,1
+31,1997.9321,Romania,Russia,1
+11,2005.25031,Russia,India,2
+13,2011.00221,Russia,China,2
+3,1931.73316,Senegal,Egypt,20
+1,1964.81984,Senegal,Tajikistan,20
+9,1965.0022,Senegal,Nigeria,20
+27,1966.70126,Senegal,Central African Republic,20
+39,1985.8923,Senegal,Italy,20
+10,1989.11212,Senegal,Russia,20
+15,1991.73442,Senegal,Israel,20
+30,1992.46901,Senegal,Romania,20
+38,1996.00221,Senegal,Morocco,20
+14,1997.81728,Senegal,Tunisia,20
+32,1998.157,Senegal,Kenya,20
+37,2000.00221,Senegal,Israel,20
+35,2001.74952,Senegal,Kenya,20
+34,2015.0022,Senegal,United Arab Emirates,20
+48,2015.757,Senegal,France,20
+33,2018.0022,Senegal,Turkey,20
+29,2019.66933,Senegal,Spain,20
+51,2019.83351,Senegal,Italy,20
+49,2020.00221,Senegal,Spain,20
+50,2021.75027,Senegal,Spain,20
+2,1976.00221,Tajikistan,Ethiopia,1
+21,1997.87463,United States,Brazil,8
+19,1998.71871,United States,Spain,8
+52,2000,United States,Mexico,8
+26,2005.21894,United States,Brazil,8
+23,2006.08851,United States,Argentina,8
+24,2006.08851,United States,Argentina,8
+20,2007.00221,United States,Spain,8
+25,2007.97173,United States,Colombia,8
